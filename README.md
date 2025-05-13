@@ -1,2 +1,2 @@
 # HPC Spring School
-this is test file
+this is a test file
